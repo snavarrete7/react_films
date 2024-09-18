@@ -1,27 +1,123 @@
 [
     {
-        "id": 1,
-        "nombre": "Inception",
-        "categoria": "Ciencia Ficcion"
+      "id": 1,
+      "nombre": "Inception",
+      "categoria": "Ciencia Ficción",
+      "sinopsis": "Dom Cobb es un ladrón especializado en infiltrarse en los sueños de otras personas y robar secretos del subconsciente."
     },
     {
-        "id": 2,
-        "nombre": "The Dark Knight",
-        "categoria": "Accion"
+      "id": 2,
+      "nombre": "The Dark Knight",
+      "categoria": "Acción",
+      "sinopsis": "Batman se enfrenta a su mayor desafío cuando el Joker desata el caos en Gotham City, poniendo a prueba los límites del héroe."
     },
     {
-        "id": 3,
-        "nombre": "Pulp Fiction",
-        "categoria": "Crimen"
+      "id": 3,
+      "nombre": "Pulp Fiction",
+      "categoria": "Crimen",
+      "sinopsis": "Una serie de historias entrelazadas sobre criminales en Los Ángeles, con diálogos ingeniosos y violencia estilizada."
     },
     {
-        "id": 4,
-        "nombre": "The Godfather",
-        "categoria": "Drama"
+      "id": 4,
+      "nombre": "The Godfather",
+      "categoria": "Drama",
+      "sinopsis": "La saga épica de la familia Corleone, una poderosa dinastía criminal en la América de mediados del siglo XX."
     },
     {
-        "id": 5,
-        "nombre": "Toy Story",
-        "categoria": "Animacion"
+      "id": 5,
+      "nombre": "Toy Story",
+      "categoria": "Animación",
+      "sinopsis": "Un grupo de juguetes cobra vida cuando los humanos no están presentes, liderado por Woody, el vaquero, y Buzz Lightyear, el astronauta."
+    },
+    {
+      "id": 6,
+      "nombre": "Interstellar",
+      "categoria": "Ciencia Ficción",
+      "sinopsis": "Un grupo de exploradores viaja a través de un agujero de gusano en busca de un nuevo hogar para la humanidad."
+    },
+    {
+      "id": 7,
+      "nombre": "Gladiator",
+      "categoria": "Acción",
+      "sinopsis": "Un general romano es traicionado y se convierte en gladiador, buscando venganza contra el emperador que lo despojó de su familia."
+    },
+    {
+      "id": 8,
+      "nombre": "The Matrix",
+      "categoria": "Ciencia Ficción",
+      "sinopsis": "Neo, un hacker, descubre que la realidad es una simulación creada por máquinas y se une a la rebelión para liberar a la humanidad."
+    },
+    {
+      "id": 9,
+      "nombre": "Schindler's List",
+      "categoria": "Drama",
+      "sinopsis": "La historia real de Oskar Schindler, un empresario que salvó a más de mil judíos del Holocausto durante la Segunda Guerra Mundial."
+    },
+    {
+      "id": 10,
+      "nombre": "Finding Nemo",
+      "categoria": "Animación",
+      "sinopsis": "Un pez payaso llamado Marlin emprende un viaje épico por el océano para encontrar a su hijo Nemo, que ha sido capturado por humanos."
+    },
+    {
+      "id": 11,
+      "nombre": "Star Wars: A New Hope",
+      "categoria": "Ciencia Ficción",
+      "sinopsis": "Luke Skywalker se une a la lucha contra el Imperio Galáctico y ayuda a destruir la Estrella de la Muerte."
+    },
+    {
+      "id": 12,
+      "nombre": "Mad Max: Fury Road",
+      "categoria": "Acción",
+      "sinopsis": "En un mundo post-apocalíptico, Max se une a un grupo de rebeldes para derrocar a un tirano opresor."
+    },
+    {
+      "id": 13,
+      "nombre": "The Silence of the Lambs",
+      "categoria": "Crimen",
+      "sinopsis": "Una joven agente del FBI recurre al psicópata Hannibal Lecter para atrapar a un asesino serial conocido como Buffalo Bill."
+    },
+    {
+      "id": 14,
+      "nombre": "Fight Club",
+      "categoria": "Drama",
+      "sinopsis": "Un hombre aburrido de su vida se une a un club secreto donde hombres luchan entre sí para liberarse de sus frustraciones."
+    },
+    {
+      "id": 15,
+      "nombre": "Up",
+      "categoria": "Animación",
+      "sinopsis": "Un anciano viudo decide cumplir su sueño de explorar el mundo, atando miles de globos a su casa y volando hacia Sudamérica."
+    },
+    {
+      "id": 16,
+      "nombre": "Blade Runner 2049",
+      "categoria": "Ciencia Ficción",
+      "sinopsis": "Un blade runner descubre un secreto que podría desatar el caos y va en busca de Rick Deckard, desaparecido durante décadas."
+    },
+    {
+      "id": 17,
+      "nombre": "John Wick",
+      "categoria": "Acción",
+      "sinopsis": "Un exasesino a sueldo busca venganza tras la muerte de su perro, un regalo de su difunta esposa."
+    },
+    {
+      "id": 18,
+      "nombre": "The Departed",
+      "categoria": "Crimen",
+      "sinopsis": "Un oficial de policía infiltrado en la mafia y un topo dentro de la policía intentan descubrirse mutuamente antes de ser atrapados."
+    },
+    {
+      "id": 19,
+      "nombre": "La La Land",
+      "categoria": "Drama",
+      "sinopsis": "Dos artistas en Los Ángeles se enamoran mientras intentan hacer realidad sus sueños, pero deben enfrentar sacrificios."
+    },
+    {
+      "id": 20,
+      "nombre": "Coco",
+      "categoria": "Animación",
+      "sinopsis": "Un niño viaja al Mundo de los Muertos para descubrir la verdad sobre su familia y su pasión por la música."
     }
 ]
+  
