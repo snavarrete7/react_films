@@ -10,6 +10,7 @@ function App() {
   const [categoria_sel, setSelCat] =useState([]);
   const [film_sel, setSelFilm] = useState("");
   const [cat_info, setCatInfo] = useState("");
+  const [sinopsis, setSinopsis] = useState("");
 
   const categorySelected = (cat) =>{
     setSelCat(cat)
@@ -21,6 +22,7 @@ function App() {
       if(f.nombre === fl){
         console.log(f.categoria)
         setCatInfo(f.categoria)
+        setSinopsis(f.sinopsis)
       }
     }
   }
@@ -38,7 +40,7 @@ function App() {
     <div className="App">
       <h3>Films:</h3>
       <FilmList data={filmsFilter} categorias={categorias} selectCategory={categorySelected} selectFilm={filmSelected}/>
-      <FilmInfo data={films} film={film_sel} category={cat_info}/>
+      <FilmInfo data={films} film={film_sel} category={cat_info} sinopsis={sinopsis}/>
     </div>
   );
 }
