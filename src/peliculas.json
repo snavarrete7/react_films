@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "nombre": "Inception",
+        "categoria": "Ciencia Ficcion"
+    },
+    {
+        "id": 2,
+        "nombre": "The Dark Knight",
+        "categoria": "Accion"
+    },
+    {
+        "id": 3,
+        "nombre": "Pulp Fiction",
+        "categoria": "Crimen"
+    },
+    {
+        "id": 4,
+        "nombre": "The Godfather",
+        "categoria": "Drama"
+    },
+    {
+        "id": 5,
+        "nombre": "Toy Story",
+        "categoria": "Animacion"
+    }
+]
