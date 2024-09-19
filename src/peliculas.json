@@ -1,4 +1,5 @@
-[
+{
+  "peliculas":[
     {
       "id": 1,
       "nombre": "Inception",
@@ -119,5 +120,5 @@
       "categoria": "Animación",
       "sinopsis": "Un niño viaja al Mundo de los Muertos para descubrir la verdad sobre su familia y su pasión por la música."
     }
-]
-  
+  ]
+}

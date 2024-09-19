@@ -1,3 +1,9 @@
+# Steps to run the app
+Open 2 terminals
+
+Terminal 1 run -> npx json-server peliculas.json -p 3030
+Terminal 2 run -> npm run start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
