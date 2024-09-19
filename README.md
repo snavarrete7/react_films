@@ -2,6 +2,7 @@
 Open 2 terminals
 
 Terminal 1 run -> npx json-server peliculas.json -p 3030
+
 Terminal 2 run -> npm run start
 
 # Getting Started with Create React App
